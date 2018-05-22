@@ -1,9 +1,8 @@
 /*
-A Design by W3Layouts
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
+<!--
+Author: Umer Farooq & James Reyes
+ET 710 Spring 2018 Group Project
+-->
 */
 ----------------------------------
 NOTE : FREQUENTLY ASKED QUESTIONS 
