@@ -9,4 +9,4 @@ vti_timecreated:TR|22 May 2018 18:47:01 -0000
 vti_cacheddtm:TX|22 May 2018 19:06:42 -0000
 vti_filesize:IR|1903
 vti_syncwith_146.111.120.96\:443/sp18/et_710_m2/ufarooq61:TX|22 May 2018 19:06:42 -0000
-vti_syncofs_146.111.120.96\:443/sp18/et_710_m2/ufarooq61:TW|22 May 2018 20:14:48 -0000
+vti_syncofs_146.111.120.96\:443/sp18/et_710_m2/ufarooq61:TW|22 May 2018 20:19:09 -0000
